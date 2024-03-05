@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo Programaria" src="https://www.programaria.org/wp-content/uploads/2015/08/logo-04.png" width="200px" />
-</p>
+</p> 
 
 <p align="center">
 Aplicação desenvolvida no curso Eu ProgrAmo da PrograMaria.
